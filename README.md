@@ -1,4 +1,3 @@
-
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Asma Ait Lahssaine</h1>
 <h3 align="center">I'm a second-year Master's student specializing in Information Systems and Intelligent Systems, with a deep passion for Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) and Data Analysis. My academic journey and projects have fueled my drive to harness data-driven solutions that can create meaningful change. I am constantly expanding my expertise in these fields, and I'm particularly interested in leveraging technology to solve complex problems. My goal is to innovate and contribute to the tech industry with impactful solutions.</h3>
