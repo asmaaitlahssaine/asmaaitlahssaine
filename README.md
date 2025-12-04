@@ -4,7 +4,7 @@
 
 <h3 align="center">
 AI & Data Engineer passionate about building intelligent systems, automation, and end-to-end AI applications.  
-I specialize in LLMs, RAG, Agentic Workflows, Data Engineering, and MLOps—turning complex data into usable insights and real-world solutions.
+I specialize in LLMs, RAG, Agentic Workflows, Data Engineering, and MLOps.Turning complex data into usable insights and real-world solutions.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
