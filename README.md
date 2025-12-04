@@ -1,15 +1,40 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
+
 <h1 align="center">Hi 👋, I'm Asma Ait Lahssaine</h1>
-<h3 align="center">I'm a second-year Master's student specializing in Information Systems and Intelligent Systems, with a deep passion for Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) and Data Analysis. My academic journey and projects have fueled my drive to harness data-driven solutions that can create meaningful change. I am constantly expanding my expertise in these fields, and I'm particularly interested in leveraging technology to solve complex problems. My goal is to innovate and contribute to the tech industry with impactful solutions.</h3>
+
+<h3 align="center">
+AI & Data Engineer passionate about building intelligent systems, automation, and end-to-end AI applications.  
+I specialize in LLMs, RAG, Agentic Workflows, Data Engineering, and MLOps—turning complex data into usable insights and real-world solutions.
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaitlahssaine&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaitlahssaine" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=asmaaitlahssaine&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaitlahssaine" />
+</p>
 
-- 💡 What I Do **AI/ML Enthusiast, Data Analyst, Deep Learning Practitioner and Continuous Learner**
+---
 
-- 🌱 What I’m Learning **PyTorch, TensorFlow**
+### 💡 What I Do
+- AI Engineer • LLMs • RAG • Agentic Workflows  
+- Data Engineering (SQL, Python, ETL, GCP)  
+- MLOps & deployment with FastAPI, Docker  
+- NLP & Intelligent Assistants (NL2SQL, automation)
 
-- 💬 Ask me about **PyTorch, Python, Java**
+---
+
+### 🧠 What I’m Learning
+- LangGraph, Multi-agent systems  
+- LLM orchestration  
+- MLOps (monitoring, CI/CD, pipelines)
+
+---
+
+### 💬 Ask me about
+- Python, RAG, LangChain / LangGraph  
+- FastAPI, SQL, Data Pipelines  
+- AI Assistants, Retrieval Systems, Vector Databases  
+
 
 - 📫 How to reach me **aitlahssaine.asma@gmail.com**
 
